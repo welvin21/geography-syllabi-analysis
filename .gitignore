@@ -134,3 +134,4 @@ dmypy.json
 # Data directories
 data/
 output/
+logs/
